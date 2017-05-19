@@ -1,0 +1,41 @@
+body {
+  background-color: #f6d178;
+}
+img {
+  margin-top: 30px;
+  height: 300px;
+  width: 300px;
+}
+.title{
+  color: #d22113;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+}
+
+pre{
+  height: 65px;
+  width: 300px;
+  text-align: center;
+  font-size: 1em;
+}
+textarea {
+    width: 30%;
+    height: 100px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+    font-size: 2em;
+}
+
+.inputArea, .inst{
+  margin-top: 30px;
+}
+
+.buttonDevour{
+  margin: 12px 0 0 10px  ;
+}
